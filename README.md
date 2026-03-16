@@ -1,9 +1,6 @@
   <div align="center">                                                                                                   
-    <h2>🌿 Hi, I'm Jadiha</h2>
-    <p><em>Systems Design Engineering Student</em></p>                                 
+    <h2>🌿 hi, i'm jadiha</h2>                               
   </div>          
-
-  ---
 
   I think the best tech makes the world a little more human. I'm drawn to building things that
   actually help people, especially around mental health and community.
