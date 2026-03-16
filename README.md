@@ -1,12 +1,12 @@
   <div align="center">                                                                                                   
-    <h2>🌿 hi, i'm jadiha</h2>
-    <p><em>systems design engineering student · where engineering meets empathy</em></p>                                 
+    <h2>🌿 Hi, I'm Jadiha</h2>
+    <p><em>Systems Design Engineering Student</em></p>                                 
   </div>          
 
   ---
 
   I think the best tech makes the world a little more human. I'm drawn to building things that
-  actually help people — especially around mental health and community.
+  actually help people, especially around mental health and community.
 
   Currently studying Systems Design Engineering and exploring how thoughtful design can create
   real, positive change.
@@ -20,8 +20,8 @@
   at the Toronto Zoo — putting real robots in front of real people and making it work.
 
   📊 **Amazon**
-  Built an internal tool that gave an entire team visibility into their cron jobs in one place —
-  turning something messy and scattered into something clear and manageable.
+  Built an internal tool that gave an entire team visibility into their cron jobs in one place.
+  Turning something messy and scattered into something clear and manageable.
 
   💳 **Wealthsimple** *(current)*
   Prototyping new features for the 2% cashback card and shaping what the next generation
