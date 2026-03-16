@@ -1,5 +1,5 @@
   <div align="center">                                                                                                   
-    <h2>🌿 hi, i'm jadiha</h2>                               
+    <h2>🌿 hi, i'm jadiha :) </h2>                               
   </div>          
 
   I think the best tech makes the world a little more human. I'm drawn to building things that
@@ -14,7 +14,7 @@
 
   🤖 **Real Life Robotics**
   Led software development and ran live pilots and demos for an autonomous food delivery robot
-  at the Toronto Zoo — putting real robots in front of real people and making it work.
+  at the Toronto Zoo, putting real robots in front of real people and making it work.
 
   📊 **Amazon**
   Built an internal tool that gave an entire team visibility into their cron jobs in one place.
