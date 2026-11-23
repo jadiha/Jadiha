@@ -20,8 +20,8 @@
   Built an internal tool that gave an entire team visibility into their cron jobs in one place.
   Turning something messy and scattered into something clear and manageable.
 
-  💳 **Wealthsimple** *(current)*
-  Prototyping new features for the 2% cashback card and shaping what the next generation
+  💳 **Wealthsimple** 
+  Prototyped new features for the 2% cashback card and shaping what the next generation
   of Wealthsimple cards could look like.
 
   ---
