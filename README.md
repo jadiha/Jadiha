@@ -3,7 +3,7 @@
   </div> 
 
   I think the best tech makes the world a little more human. I'm drawn to building things that
-  actually help people, especially around mental health and community.
+  actually help people.
 
   Currently studying Systems Design Engineering and exploring how thoughtful design can create
   real, positive change.
